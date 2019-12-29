@@ -1,2 +1,0 @@
-# PhotoListapp
-Created with CodeSandbox
